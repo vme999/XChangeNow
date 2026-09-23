@@ -1,0 +1,19 @@
+/* 通用 */
+"app.name" = "XChangeNow";
+"button.convert" = "转换";
+"button.done" = "完成";
+"button.cancel" = "取消";
+"button.ok" = "确定";
+
+/* 货币转换 */
+"convert.title" = "汇率转换";
+"convert.input.amount" = "输入金额";
+"convert.recent" = "最近转换";
+"convert.rate.updated" = "更新于 %@";
+
+/* 错误信息 */
+"error.title" = "错误";
+"error.invalid.amount" = "请输入有效的金额";
+"error.same.currency" = "源货币和目标货币不能相同";
+"error.network" = "网络错误: %@";
+"error.rate.not.found" = "找不到对应的汇率信息";
